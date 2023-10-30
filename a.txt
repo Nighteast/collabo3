@@ -10,6 +10,7 @@ abc
 4444
 123
 afdkklsafklsadnf
+<<<<<<< HEAD
 qqq
 qqq2
 aa
@@ -17,3 +18,6 @@ aa
 aa
 333
 444
+=======
+a
+>>>>>>> 8cec2376a959f0ab49f7e904ef5fcbe78309a25a
